@@ -1,0 +1,15 @@
+fraud_detect
+│
+├── app.py
+├── fraud_dataset.csv
+├── requirements.txt
+└── README.md
+
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+
+
+streamlit run app.py
