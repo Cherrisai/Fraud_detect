@@ -4,6 +4,7 @@ An interactive fraud detection dashboard built using Streamlit.
 
 This project analyzes fraudulent transactions and provides KPI insights, fraud trends, anomaly detection, and predictive analytics.
 
+huggingface deploy: https://huggingface.co/spaces/cherrisai/fraud_detect_dashboard
 ## Features
 
 • KPI Dashboard for fraud statistics  
